@@ -1,0 +1,17 @@
+.DS_Store
+
+# Nix build outputs
+result
+result-*
+
+# Nix build/development environment
+.direnv
+.envrc
+
+# Flakes
+.std*
+
+# System specific files
+hardware-configuration.nix
+/tmp/
+
