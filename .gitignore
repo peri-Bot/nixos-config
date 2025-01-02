@@ -15,3 +15,6 @@ result-*
 hardware-configuration.nix
 /tmp/
 
+# Local overrides
+*.local.nix
+
